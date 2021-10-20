@@ -1,3 +1,3 @@
 # The Aircraft Context Dataset
 
-Coming soon!
+The dataset will be available by November 2021!
