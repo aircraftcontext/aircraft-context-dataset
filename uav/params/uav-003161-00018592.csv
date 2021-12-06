@@ -1,0 +1,5 @@
+not_airborne,,building,undefined,low,,not_occluded,not_overexposure,underexposure,large,heavy,combat,,,military,fixed-wing,General Atomics MQ-9 Reaper
+not_airborne,,indoor,apron,,,occluded,overexposure,not_underexposure,,,,,,,,
+not_airborne,,indoor,apron,,,not_occluded,not_overexposure,not_underexposure,,,,,,,,
+not_airborne,,indoor,apron,,,occluded,not_overexposure,not_underexposure,,,,,,,,
+not_airborne,,apron,,,,not_occluded,not_overexposure,underexposure,,,,,,,,

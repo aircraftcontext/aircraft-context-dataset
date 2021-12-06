@@ -1,0 +1,3 @@
+not_airborne,clear,building,undefined,,sunny,not_occluded,not_overexposure,not_underexposure,large,heavy,combat,,,military,fixed-wing,General Atomics MQ-1 Predator
+not_airborne,clear,apron,sky-cloudy,,diffuse,occluded,not_overexposure,not_underexposure,,,,,,,,
+not_airborne,clear,apron,,,diffuse,occluded,not_overexposure,not_underexposure,,,,,,,,
