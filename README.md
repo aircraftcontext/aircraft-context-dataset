@@ -3,7 +3,7 @@
 
 This repository provides annotations for the Aircraft Context Dataset, which focuses on training and evaluating classification, detection and segmentation in aerial domains. 
 A thorough description can be found in the corresponding [paper](https://openaccess.thecvf.com/content/ICCV2021W/AOTW/papers/Steininger_The_Aircraft_Context_Dataset_Understanding_and_Optimizing_Data_Variability_in_ICCVW_2021_paper.pdf) and [supplementary material](https://openaccess.thecvf.com/content/ICCV2021W/AOTW/supplemental/Steininger_The_Aircraft_Context_ICCVW_2021_supplemental.pdf). 
-The image data corresponding to the annotations must be downloaded and extracted from the original sources using the provided scripts. The required link list can be requested by [email](mailto:daniel.steininger@ait.ac.at) (please provide your full name, affiliation and intended use of the dataset).  
+The image data corresponding to the annotations must be downloaded and extracted from the original sources using the provided scripts. The required link list can be requested by [email](mailto:verena.widhalm@ait.ac.at) (please provide your full name, affiliation and intended use of the dataset).  
 
 
 ## Setup
