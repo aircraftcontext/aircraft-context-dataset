@@ -29,7 +29,7 @@ This subset currently consists of roughly 11k annotated frames and 2k semantic m
 ## MAV
 ![mav_label_categories.png](figures/mav_label_categories.png "mav_label_categories.png")
 
-This subset will be released in Dezember 2021.
+This subset is not publicly available due to ethical reasons.
 
 
 ## Licence
